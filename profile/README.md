@@ -1,1 +1,1 @@
-Welcome to the Ko Lab
+Welcome to Kang Ko's Lab
