@@ -1,1 +1,1 @@
-Welcome to Kang Ko's Lab
+Welcome to the open-source repositories for Dr. Kang Ko’s Lab at the University of Pennsylvania School of Dental Medicine. Our lab utilizes single-cell and spatial transcriptomics data to study skin and mucosal biology in the context of immune regulation. These technologies have allowed us to identify possible therapeutic targets and pathways in diseases such as periodontal disease, atopic dermatitis, and oral wound healing. This page contains scripts and analyses from our published studies.
